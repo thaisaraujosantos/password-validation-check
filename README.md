@@ -1,4 +1,4 @@
-# Password validation Check
+# Password Validation Check
 
 In this project I created a password validation check using HTML, CSS and JavaScript.
 
